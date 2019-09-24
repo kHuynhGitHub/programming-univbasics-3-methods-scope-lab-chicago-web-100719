@@ -10,6 +10,6 @@ def link(phrase = "It's Dangerous To Go Alone! Take This.")
   puts phrase
 end
 
-def any_phase(phrase)
+def any_phrase(phrase)
   puts phrase
 end
